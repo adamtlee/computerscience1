@@ -1,4 +1,4 @@
-#  Programming Assignment 1 
+# Programming Assignment 1 
 ### Specifications: 
 Calculate the average of two numbers. Get used to Java and your development environment.
 
