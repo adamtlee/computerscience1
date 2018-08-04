@@ -1,0 +1,12 @@
+Number = 1.0	sum = 1.0
+Number = 2.3	sum = 3.3
+Number = 4.56	sum = 7.859999999999999
+Number = 7.0	sum = 14.86
+Number = 8.901	sum = 23.761
+Number = 12.0	sum = 35.760999999999996
+Number = 4.55	sum = 40.31099999999999
+Number = 6.78	sum = 47.090999999999994
+Number = 9.99	sum = 57.080999999999996
+Number = 10.1	sum = 67.181
+The sum of the 10 numbers is 67.181
+and the average is 6.7181
