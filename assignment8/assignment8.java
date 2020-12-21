@@ -1,3 +1,17 @@
+/** Print out the test scores of students in a table with a message
+ *
+ *
+ * Adam Lee
+ * program #8 CS 1050,Section 001
+ * Java Version 1.6.0_51,JGRASP,MacOS
+ * Vocabulary word: Mediaeligvalism - The method or spirit of the Middle
+ * Ages devotion to the institutions and practices of the Middle Ages a
+ * survival from the Middle Ages. (www.wordgenerator.net)
+ * "If the purpose for learning is to score well on a test,
+ *  we've lost sight of the real reason for learning."
+ * -Jeannie Fulbright(unknown - present)(teachingenglish.org)
+ */
+ 
 import java.util.Scanner;
 import java.io.*;
 

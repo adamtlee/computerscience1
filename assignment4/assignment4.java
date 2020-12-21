@@ -1,3 +1,17 @@
+/** Java Input/output program
+ * This program uses the input and output program in java
+ * Reads the data values and finds the average and sum
+ * Adam Lee
+ * Program #4 CS 1050, Section 001
+ * Java Version 1.6.0_51, JGRASP, MacOS
+ * Vocabulary word: Absurdism - philisophy stating that the efforts of man to find
+ * meaning in the universe will ultimately fail because no such meaning exists
+ * (at least in relation to man).
+ * "You can get help from teachers, but you are going to have to
+ * learn a lot by yourself, sitting alone in a room."
+ * - Dr.Seuss(1904-1991)
+ */
+ 
 import java.util.Scanner;
 import java.io.*;
 

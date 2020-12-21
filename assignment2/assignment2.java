@@ -1,3 +1,15 @@
+/**Interactive Triangle Program
+ * This program asks the user to input three sides of triangle
+ * Calculates the perimeter of a triangle as well as the area
+ * Adam Lee
+ * Program #2 CS 1050,Section 001
+ * Java Version 1.6.0_51,JGRASP,MacOS
+ * Vocabulary word: Perseverance - Steadfastness in doing something
+ * despite difficulty or delay in achieving success.
+ * "Learn from yesterday, live for today, hope for tomorrow. The
+ * important thing is to not stop questioning." -Albert Einstein(1879-1955)
+ */
+
 import java.util.*;
 
 public class assignment2 {

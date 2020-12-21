@@ -1,3 +1,15 @@
+/** Interactive Triangle program with JOptionPane
+ *  This program asks the user to input 3 sides of a triangle
+ *  Calculates the area of the triangle using JOptionPane
+ *  Adam Lee
+ *  Program #3 CS 1050, section 001
+ *  Java Version 1.6.0_51,JGRASP,MACOS
+ *  Vocabulary Word:Gedankenexperiment - an experiment carried out in thought only
+ *  "The 1st period is won by the best technician. The 2nd period is won by
+ *   the kid in the best shape. The 3rd period is won by the kid with the biggest heart."
+ *  -Dan Gable (b. 1948)
+ */
+ 
 import java.util.*;
 import javax.swing.JOptionPane;
 import java.text.DecimalFormat;

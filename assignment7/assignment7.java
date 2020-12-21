@@ -1,3 +1,18 @@
+/** Calculate mileage reimbursement based on a table
+ *
+ *
+ * Adam Lee
+ * program #7 CS 1050,Section 001
+ * Java Version 1.6.0_51,JGRASP,MacOS
+ * Vocabulary word: Discombobulate - to cause to be confused confuse
+ *                 emotionally (wordgenerator.net)
+ * "To have faith is to trust yourself to the water.
+ * When you swim you don't grab hold of the water,
+ * because if you do you will sink and drown.
+ * Instead you relax, and float."
+ * -Alan Watts (1915 - 1973)(brainyquote.com)
+ */
+ 
 import java.util.Scanner;
 import java.io.*;
 

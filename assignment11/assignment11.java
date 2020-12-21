@@ -1,3 +1,16 @@
+/**average program using arrays
+ *        This program uses arrays to calculate
+ *        the average
+ * Adam Lee
+ * program #11 CS 1050,Section 001
+ * Java Version 1.6.0_51,JGRASP,MacOS
+ * Vocabulary word: Nepenthe - A drug used by the ancients to give relief
+ * from pain and sorrow by some supposed to have been opium or hasheesh
+ * Hence anything soothing and comforting.(http://www.wordgenerator.net)
+ * "while (!(succeed = try())); "
+ * - Author is a computer or Unknown
+ */
+ 
 import java.util.*;
 public class assignment11 {
     static Toolkit tools = new Toolkit();

@@ -1,3 +1,18 @@
+ 
+/**
+ * This program uses methods to find the area and perimeter of a triangle
+ * Adam Lee
+ * program #5 CS 1050, Section 001
+ * Java Version 1.6.0_51,JGRASP, MacOS
+ * Vocabulary word: physics - The science of matter and energy, and their properties
+ * and interactions in fields including mechanics, acoustics, optics, heat,
+ * electricity, magnetism, radiation, and atomic and nuclear science.
+ * (yourdictionary.com)
+ * "Everybody is a genius. But if you judge a fish by its ability to climb
+ * a tree, it will live its whole life believing that it is stupid."
+ * - Albert Einstein (1879 - 1955)(goodreads.com)
+ */
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
